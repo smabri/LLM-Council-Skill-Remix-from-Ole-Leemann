@@ -1,3 +1,7 @@
 Basically, what this file is, is that the original LLM console is not able to be put in as a skill in Claude. I made it so that you can use this straight, then put it straight into Claude as a skill without any hassle. So just copy it. Go to the customize tab in Claude, then, when you see skills, look to your right. There should be a plus sign. Press the plus sign, then press upload files and upload the LLM Council master zip, and your skill should be published in your Claude for you to use at any time. And for those who do not know what the LLM Council is, it's basically a way for multiple AIs to be able to make your information unbiased and give its opinion from multiple different AIs in order to create a clear and understandable conclusion. 
 <img width="1024" height="506" alt="image" src="https://github.com/user-attachments/assets/23a5080d-8fe2-48bd-a3ce-5fb31bf0fa04" />
 If you want more information, this is the original link from which I used to make mine. https://github.com/karpathy/llm-council
+
+I am aware that the title says it was made by Ole Leemann. However, that is wrong. I just don't know how to fix it. The real creator is karpathy.
+<img width="460" height="460" alt="image" src="https://github.com/user-attachments/assets/20a350ad-c179-4c90-b59d-65d922e9dae8" />
+This is him.
